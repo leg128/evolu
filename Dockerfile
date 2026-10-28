@@ -1,1 +1,1 @@
-FROM atendare/evolution-api:latest
+FROM evoapicloud/evolution-api:latest
